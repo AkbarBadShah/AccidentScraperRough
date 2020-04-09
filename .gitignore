@@ -1,4 +1,7 @@
-venv/
+DjangoScraperEnv
+asdjangoenv
+myenv
+*.pyc
 __pycache__
 migrations/
 log
